@@ -1,0 +1,14 @@
+{
+  "name": "computerization-logo",
+  "version": "2.0.0",
+  "description": "computerization logo",
+  "scripts": {
+    "provision": "NPM_SCRIPT=provision ./scripts/npm-script.sh",
+    "build": "NPM_SCRIPT=build ./scripts/npm-script.sh"
+  },
+  "author": "idbolshakov@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "svgo": "^1.2.0"
+  }
+}
