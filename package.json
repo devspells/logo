@@ -9,6 +9,6 @@
   "author": "idbolshakov@gmail.com",
   "license": "ISC",
   "devDependencies": {
-    "svgo": "^1.2.0"
+    "svgo": "^3.0.2"
   }
 }
